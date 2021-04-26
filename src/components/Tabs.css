@@ -1,0 +1,14 @@
+
+
+.tabBtn{
+cursor:pointer;
+margin:10px;
+}
+.tabBtn:hover{
+  color:lightgray;
+}
+.container{
+  display:flex;
+  width:auto;
+  margin:100px;
+}
